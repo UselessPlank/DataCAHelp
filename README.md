@@ -46,7 +46,7 @@ FaceGrid:
 
 -------
 
-Exploratory Data Analysis
+**Exploratory Data Analysis**
 
 -------
 
@@ -92,7 +92,7 @@ Use Model_Selection_Train from SKLearn to Split Data into Training & Testing Set
 
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/26cb4f0a-86e6-461d-b6e5-e0af209a94ea)
 
-** TRAINING THE MODEL **
+**TRAINING THE MODEL**
 
 Import LinearRegression:
 
