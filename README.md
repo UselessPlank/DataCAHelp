@@ -118,7 +118,7 @@ Create Scatterplot of Real Test Values vs Predicted:
 
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/5653ba99-3f81-4b1d-9476-ead20170f23e)
 
-** Evaluating the Model **
+**Evaluating the Model**
 
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/0329354e-62d5-4a13-a04f-7da0862f91e8)
 
