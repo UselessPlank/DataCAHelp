@@ -46,6 +46,26 @@ FaceGrid:
 
 -------
 
+**Correlation in Python**
+
+-------
+
+Calculate Correlation Using Numpy, with Arrange, Array, Correlation Coefficient:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/ad8fa154-a878-4f18-b0ca-79f322cfbe64)
+
+Calculating Correlation Using Scipy, with Arrange, Pearsonr, Spearmanr, Kendalltau:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/1ef27742-91d2-4c12-9dd3-e65b538b7885)
+
+Calculating Correlation Using Pandas, with Series, Corr, Head, Seaborn and a Heatmap:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/1c1955a9-bb7a-4a5e-a146-189e980cbfef)
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/6151b4da-7108-4eef-b221-f4e216813c1a)
+
+-------
+
 **Exploratory Data Analysis**
 
 -------
