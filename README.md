@@ -118,3 +118,38 @@ Create Scatterplot of Real Test Values vs Predicted:
 
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/5653ba99-3f81-4b1d-9476-ead20170f23e)
 
+** Evaluating the Model **
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/0329354e-62d5-4a13-a04f-7da0862f91e8)
+
+Plot a Histogram of the Residuals, use Seaborn Displot or Plt.Hist:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/d895fe30-4837-4288-b760-045f1c4647e0)
+
+-------
+
+**Using Correlation Tests**
+
+-------
+
+Import, Load, Print Head:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/fde71665-10ce-42dd-9d91-f3fab2eadddf)
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/1849a03a-04a5-4358-b4df-dcac05777436)
+
+**Pearsons Correlation Coefficient**
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/00eb8cac-5e4c-41fb-9992-075ef3db7982)
+
+**One Sample T-Test**
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/60a5e1bd-7d39-4076-b850-27d3cc89332d)
+
+**Two Sample T-Test**
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/e8c19094-60d5-4bfd-8431-2d30f6616346)
+
+**Paired T-Test**
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/de45ac20-787a-4bab-b58b-1214600a5138)
