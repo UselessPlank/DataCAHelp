@@ -5,12 +5,15 @@
 -------
 
 Imports, Read in, Print Head:
+
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/22262c41-ce26-435f-be26-0703b48687fb)
 
 JointPlot:
+
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/06f8495c-4ed0-404f-8f1c-f2bb06488dfe)
 
 DistPlot:
+
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/ab5207da-fe52-4e77-b128-433d91e2e20d)
 
 ![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/31832db8-dde5-46d9-93f2-a8fb2285e6a7)
