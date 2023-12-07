@@ -46,10 +46,75 @@ FaceGrid:
 
 -------
 
-**Correlation Using Numpy**
+Exploratory Data Analysis
 
 -------
 
+Imports, Read In, Print Head, Info, Describe:
 
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/9b00ec07-4b1e-45be-bfd8-f385a5aaaf51)
 
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/a10bbf94-9cff-4a0a-9454-2d1dc26a409b)
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/fc0da267-c956-4161-acb4-4fda002409f4)
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/34875104-d713-45d8-bcd0-306de44f7568)
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/4ea9dde3-5935-4f97-9583-e2a7c595d9ad)
+
+Use Seaborn to Create Jointplot to Compare Time & Spending:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/4a3ff928-51e2-4d82-ad7d-1eed864be1a1)
+
+Use JointPlot to Make 2D Hex Bin Plot Comparing Time & Length:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/f671b6f0-fe55-4141-aa58-2f33c7648f01)
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/c214f9ec-ab92-46dc-8199-21505af8660b)
+
+Use PairPlot to Make Plots:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/6c30ce1a-cfc2-4b11-82c6-b75f33882986)
+
+Quesiton May Come Up:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/270dfd48-e91c-4c96-943f-1dcf48f54489)
+
+Create Linear Model Plot w/ Seaborn Implot:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/5f4eb803-c73f-4c2f-bac2-a943163097a8)
+
+Set Variable X = Number Columns & Set Y = Yearly Spend Column
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/25aef90c-f560-4e0d-84c2-9c65aec0ba92)
+
+Use Model_Selection_Train from SKLearn to Split Data into Training & Testing Sets:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/26cb4f0a-86e6-461d-b6e5-e0af209a94ea)
+
+** TRAINING THE MODEL **
+
+Import LinearRegression:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/0fc8392c-a2a7-42c9-b1a2-f5d796a9f990)
+
+Create Instance of LinearRegression named lm:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/7caf0c76-d9ec-4c1d-988a-4384eaadd380)
+
+Train the Model and Fit lm on the Training Data:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/bd4cbbf0-00d5-4c49-a539-ca5700b49a39)
+
+Print Out Coefficients of the Model:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/d81bb548-338b-4652-8b55-b166cbf9eba3)
+
+Predict with lm using X Test Data:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/81059497-682a-400b-96cd-960c9e58d203)
+
+Create Scatterplot of Real Test Values vs Predicted:
+
+![image](https://github.com/UselessPlank/DataCAHelp/assets/114073566/5653ba99-3f81-4b1d-9476-ead20170f23e)
 
